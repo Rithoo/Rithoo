@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rithoo
+- 👋 Hi, I’m @Rithler07
 - 👀 I’m interested in Java, JavaScript, HTML/CSS, PHp, React
 - 🌱 I’m currently learning PHP, JavaScript
 - 💞️ 
